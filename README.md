@@ -7,8 +7,8 @@
 
 #### Settings Gradle
 ```sh
-include ':sdk'
 include ':MImageBlurDetection'
+include ':sdk'
 ```
 
 #### MainActivity
