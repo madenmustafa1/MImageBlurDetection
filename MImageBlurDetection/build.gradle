@@ -48,8 +48,8 @@ afterEvaluate {
                 from components.release
 
                 groupId = "com.github.madenmustafa"
-                artifactId = "maden-image-blur-detection"
-                version = "1.0.0"
+                artifactId = "image-blur-detection"
+                version = "1.0.1"
             }
         }
     }
